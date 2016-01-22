@@ -1,0 +1,4 @@
+F:\DOANTN\MOCK\DoAnTN\Project\Entities\bin\Debug\Entities.dll
+F:\DOANTN\MOCK\DoAnTN\Project\Entities\bin\Debug\Entities.pdb
+F:\DOANTN\MOCK\DoAnTN\Project\Entities\obj\Debug\Entities.dll
+F:\DOANTN\MOCK\DoAnTN\Project\Entities\obj\Debug\Entities.pdb

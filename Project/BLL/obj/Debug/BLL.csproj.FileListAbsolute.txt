@@ -1,0 +1,5 @@
+F:\DOANTN\MOCK\DoAnTN\Project\BLL\bin\Debug\BLL.dll
+F:\DOANTN\MOCK\DoAnTN\Project\BLL\bin\Debug\BLL.pdb
+F:\DOANTN\MOCK\DoAnTN\Project\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\DOANTN\MOCK\DoAnTN\Project\BLL\obj\Debug\BLL.dll
+F:\DOANTN\MOCK\DoAnTN\Project\BLL\obj\Debug\BLL.pdb

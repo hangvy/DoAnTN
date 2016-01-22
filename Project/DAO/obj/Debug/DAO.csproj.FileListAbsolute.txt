@@ -1,0 +1,7 @@
+F:\DOANTN\MOCK\DoAnTN\Project\DAO\bin\Debug\DAO.dll
+F:\DOANTN\MOCK\DoAnTN\Project\DAO\bin\Debug\DAO.pdb
+F:\DOANTN\MOCK\DoAnTN\Project\DAO\bin\Debug\Entities.dll
+F:\DOANTN\MOCK\DoAnTN\Project\DAO\bin\Debug\Entities.pdb
+F:\DOANTN\MOCK\DoAnTN\Project\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\DOANTN\MOCK\DoAnTN\Project\DAO\obj\Debug\DAO.dll
+F:\DOANTN\MOCK\DoAnTN\Project\DAO\obj\Debug\DAO.pdb

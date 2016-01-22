@@ -1,1 +1,13 @@
 F:\DOANTN\MOCK\Project\Project\bin\Debug\Project.exe.config
+F:\DOANTN\MOCK\DoAnTN\Project\Project\bin\Debug\Project.exe.config
+F:\DOANTN\MOCK\DoAnTN\Project\Project\bin\Debug\Project.exe
+F:\DOANTN\MOCK\DoAnTN\Project\Project\bin\Debug\Project.pdb
+F:\DOANTN\MOCK\DoAnTN\Project\Project\bin\Debug\NgenInstaller.dll
+F:\DOANTN\MOCK\DoAnTN\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\DOANTN\MOCK\DoAnTN\Project\Project\obj\Debug\Project.Menu.resources
+F:\DOANTN\MOCK\DoAnTN\Project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\DOANTN\MOCK\DoAnTN\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+F:\DOANTN\MOCK\DoAnTN\Project\Project\obj\Debug\Project.exe
+F:\DOANTN\MOCK\DoAnTN\Project\Project\obj\Debug\Project.pdb
+F:\DOANTN\MOCK\DoAnTN\Project\Project\obj\Debug\Project.Login.resources
+F:\DOANTN\MOCK\DoAnTN\Project\Project\obj\Debug\Project.ucSaveUser.resources
